@@ -6,7 +6,7 @@
 [not supported]
 ```
 
-> cURL
+> cURL test
 
 ```shell
 curl "https://example.com/api/v1/permissions" \
